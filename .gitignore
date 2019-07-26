@@ -1,0 +1,14 @@
+logs/
+/target/
+cloudconsumer/target/*
+cloudservers/target/*
+common/target/*
+eurekaserver/target/*
+feignconsumer/target/*
+**/target/*
+
+.classpath
+/bin/
+.idea/*
+.idea/
+*.iml
